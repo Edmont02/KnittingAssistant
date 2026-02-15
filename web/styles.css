@@ -1,0 +1,36 @@
+h1 {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+}
+
+button {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: lightgray;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: gray;
+    color: white;
+}
